@@ -1,0 +1,465 @@
+/*Grandstander*/
+@font-face {
+    font-family: 'Grandstander';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/grandstander/v2/ga6KawtA-GpSsTWrnNHPCSImajC7.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Grandstander';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/grandstander/v2/ga6KawtA-GpSsTWrnNHPCSImajC7.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Grandstander';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/grandstander/v2/ga6KawtA-GpSsTWrnNHPCSImajC7.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*Syne*/
+@font-face {
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/syne/v1/8vIH7w4qzmVxm2BL9A.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/syne/v1/8vIH7w4qzmVxm2BL9A.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/syne/v1/8vIH7w4qzmVxm2BL9A.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*Baloo Tammudu 2*/
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Baloo Tammudu 2 Regular'), local('BalooTammudu2-Regular'), url(https://fonts.gstatic.com/s/balootammudu2/v1/1Pt2g8TIS_SAmkLguUdFP8UaJcKOwnsX.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Baloo Tammudu 2 Medium'), local('BalooTammudu2-Medium'), url(https://fonts.gstatic.com/s/balootammudu2/v1/1Ptzg8TIS_SAmkLguUdFP8UaJcKGMVgC5oCK.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo Tammudu 2';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Baloo Tammudu 2 Bold'), local('BalooTammudu2-Bold'), url(https://fonts.gstatic.com/s/balootammudu2/v1/1Ptzg8TIS_SAmkLguUdFP8UaJcKGeV4C5oCK.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*Dancing Script*/
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/dancingscript/v15/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/dancingscript/v15/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/dancingscript/v15/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+      --color-black: #000000;
+      --color-white: #ffffff;
+      --color-blue: blue;
+      --color-salmon: #FA8072;
+      --color-medium-violet-red: #C71585;
+      --color--dark-orange: #FF8C00;
+      --color-gold: #FFD700;
+      --color-orchid: #DA70D6;
+      --color-chocolate: #D2691E;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+body {
+    min-width: 1366px;
+    width: 100%;
+    color: var(--color-black);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-blue);
+}
+
+header {
+    flex: 0 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: repeat(3, 400px);
+    row-gap: 10px;
+    width: 95%;
+    margin: auto;
+}
+
+.colors {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid grey;
+}
+
+.item-title {
+    text-align: center;
+}
+
+.colors-items {
+    margin-left: 15px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 32%);
+    gap: 5px;
+    grid-template-rows: repeat(2, 100px);
+}
+
+.color-item,
+.font-item,
+.text-styles-item {
+    text-align: center;
+}
+
+.salmon {
+    background-color: var(--color-salmon);
+}
+
+.medium-violet-red {
+    background-color: var(--color-medium-violet-red);
+    color: var(--color-white);
+}
+
+.dark-orange {
+    background-color: var(--color--dark-orange);
+}
+
+.gold {
+    background-color: var(--color-gold);
+}
+
+.orchid {
+    background-color: var(--color-orchid);
+}
+
+.chocolate {
+    background-color: var(--color-chocolate);
+    color: var(--color-white);
+}
+
+.fonts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid grey;
+}
+
+.fonts-items {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(2, 150px);
+}
+
+.light {
+    font-weight: 200;
+}
+
+.normal {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.grandstander {
+    font-family: "Grandstander";
+}
+
+.syne {
+    font-family: "Syne";
+}
+
+.baloo-tammudu {
+    font-family: Baloo Tammudu 2;
+}
+
+.dancing-script {
+    font-family: Dancing Script;
+}
+
+.text-styles {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 1px solid grey;
+}
+
+.text-styles-items {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(2, 50%);
+    row-gap: 15px;
+    width: 100%;
+}
+
+.heading {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.heading ul li {
+    font-family: "Syne";
+    font-weight: bold;
+    font-size: 26px;
+    text-align: left;
+}
+
+.subheading {
+    grid-column-start: -1;
+    grid-column-end: -2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.subheading ul li {
+    font-family: "Grandstander";
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: left;
+}
+
+.paragraph {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.paragraph ul li {
+    font-family: "Dancing Script";
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+
+footer {
+    flex-shrink: 0;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width:320px) and (max-width:480px) {
+    body {
+        min-width: 320px;
+        max-width: 480px;
+        font-size: 14px;
+    }
+
+    .container {
+        width: 100%;
+        margin: 0;
+        grid-template-rows: 400px 475px 350px;
+    }
+
+    .colors-items {
+        margin-left: 0px;
+    }
+
+    .fonts-items {
+        grid-template-rows: repeat(2, 50%);
+    }
+
+    .text-styles-items {
+        grid-template-columns: repeat(2, 50%);
+        grid-template-rows: repeat(2, 50%);
+        row-gap: 10px;
+    }
+
+    .heading ul li {
+        font-size: 15px;
+    }
+
+    .heading h1 {
+        font-size: 15px;
+    }
+
+    .subheading h2 {
+        font-size: 13px;
+    }
+
+    .subheading ul li {
+        font-size: 13px;
+    }
+
+    .paragraph ul li {
+        font-size: 10px;
+    }
+
+    .heading {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .subheading {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .paragraph {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+    body {
+        min-width: 481px;
+        max-width: 768px;
+    }
+
+    .container {
+        width: 95%;
+        margin: auto;
+        grid-template-rows: 400px 450px 350px;
+    }
+
+    .heading ul li {
+        font-size: 18px;
+    }
+
+    .heading h1 {
+        font-size: 18px;
+    }
+
+    .subheading h2 {
+        font-size: 16px;
+    }
+
+    .subheading ul li {
+        font-size: 16px;
+    }
+
+    .paragraph ul li {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    body {
+        min-width: 769px;
+        max-width: 1024px;
+        height: 100%;
+    }
+
+    .heading ul li {
+        font-size: 21px;
+    }
+
+    .heading h1 {
+        font-size: 21px;
+    }
+
+    .subheading h2 {
+        font-size: 18px;
+    }
+
+    .subheading ul li {
+        font-size: 18px;
+    }
+
+    .paragraph ul li {
+        font-size: 14px;
+    }
+}
